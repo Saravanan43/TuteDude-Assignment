@@ -20,7 +20,7 @@ const SmNav = ({url}) => {
             <div>
                 {
                     url ==='UI/UX > Refer & Earn > Friends Referred' ?
-                    <p className='w-[300px] h-[21px]  text-sm mr-16'>{url}</p> :
+                    <p className='w-[300px] h-[21px]  text-sm mr-10'>{url}</p> :
                     <p className='w-[140px] h-[21px] mr-44 text-sm'>{url}</p> 
                 }
                 
